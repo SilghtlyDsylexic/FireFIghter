@@ -1,2 +1,2 @@
-# FireFIghter
+# FireFighter
 DrRacket Firefighting game
